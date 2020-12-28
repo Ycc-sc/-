@@ -11,8 +11,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 import java.util.List;
 
 /**
- * @author huangneng
- * @create 2020-04-17 13:35
  * 配置过滤器
  */
 @Configuration

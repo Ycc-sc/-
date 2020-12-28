@@ -15,10 +15,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 import java.util.List;
 
-/**
- * @author huangneng
- * @create 2020-04-30 18:08
- */
 @Controller
 public class TagShowController {
 

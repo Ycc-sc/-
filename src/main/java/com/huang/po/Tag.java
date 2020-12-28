@@ -7,10 +7,6 @@ import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author huangneng
- * @create 2020-04-16 13:36
- */
 @Data
 @Entity
 @Table()

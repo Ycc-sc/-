@@ -16,10 +16,6 @@ import org.hibernate.CustomEntityDirtinessStrategy;
 import javax.swing.text.html.HTMLEditorKit;
 import java.util.*;
 
-/**
- * @author huangneng
- * @create 2020-04-29 10:44
- */
 public class MarkdownUtils {
 
     //markdown转换成html

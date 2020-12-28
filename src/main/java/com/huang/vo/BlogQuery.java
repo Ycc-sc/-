@@ -1,9 +1,4 @@
 package com.huang.vo;
-
-/**
- * @author huangneng
- * @create 2020-04-19 11:20
- */
 public class BlogQuery {
 
     private String title;

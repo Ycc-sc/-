@@ -19,11 +19,6 @@ import org.springframework.transaction.annotation.Transactional;
 import javax.persistence.criteria.*;
 import javax.transaction.Transaction;
 import java.util.*;
-
-/**
- * @author huangneng
- * @create 2020-04-18 20:58
- */
 @Service
 public class BlogServiceImpl implements BlogService {
 

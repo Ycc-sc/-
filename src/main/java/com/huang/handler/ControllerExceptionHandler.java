@@ -11,8 +11,6 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author huangneng
- * @create 2020-04-15 20:00
  * 异常拦截器
  */
 @ControllerAdvice

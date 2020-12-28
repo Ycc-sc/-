@@ -5,11 +5,6 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 
 import java.util.List;
-
-/**
- * @author huangneng
- * @create 2020-04-17 14:25
- */
 public interface TypeService {
 
     Type getTypeByName(String name);

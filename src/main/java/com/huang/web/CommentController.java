@@ -17,10 +17,6 @@ import javax.servlet.http.HttpSession;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author huangneng
- * @create 2020-04-30 10:30
- */
 @Controller
 public class CommentController {
 

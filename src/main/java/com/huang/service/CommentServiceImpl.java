@@ -12,10 +12,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author huangneng
- * @create 2020-04-30 10:37
- */
 @Service
 public class CommentServiceImpl implements CommentService {
 

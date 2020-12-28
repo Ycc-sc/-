@@ -8,10 +8,6 @@ import org.springframework.data.domain.Pageable;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author huangneng
- * @create 2020-04-18 20:56
- */
 public interface BlogService {
 
     Blog getBlog(Long id);

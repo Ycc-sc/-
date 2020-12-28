@@ -3,10 +3,6 @@ package com.huang.test;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author huangneng
- * @create 2020-04-21 11:49
- */
 public class TestClass {
 
     public static List<Long> covertToList(String ids) {

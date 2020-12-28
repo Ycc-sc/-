@@ -6,10 +6,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
-/**
- * @author huangneng
- * @create 2020-05-02 10:40
- */
 @Controller
 public class ArchiveShowController {
 

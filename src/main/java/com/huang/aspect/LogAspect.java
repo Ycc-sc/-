@@ -14,8 +14,6 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.Arrays;
 
 /**
- * @author huangneng
- * @create 2020-04-15 20:37
  * 日志处理
  */
 @Aspect

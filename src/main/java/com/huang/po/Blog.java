@@ -8,10 +8,7 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author huangneng
- * @create 2020-04-16 13:03
- */
+
 @Data
 @Entity
 @Table()
@@ -87,6 +84,8 @@ public class Blog {
 
     @OneToMany(mappedBy = "blog",fetch = FetchType.EAGER)
     private List<Comment> comments = new ArrayList<>();
+
+
 
 
     public Blog() {
